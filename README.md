@@ -1,30 +1,26 @@
-# 👋 Hi, I'm Jorge Malaquia
+# 👋 Hello, I'm Jorge Malaquia
+
+I'm a web developer from Brazil, currently focused on **Liferay**, **front-end development** and **enterprise web solutions**.
+
+I enjoy building interfaces, understanding how things work behind the scenes and turning business needs into practical web applications.
 
 🇧🇷 Versão em português abaixo
 
-## 🇺🇸 About me
-
-I'm a software developer focused on web development, currently working mainly with **Liferay**, **front-end development** and **enterprise web solutions**.
-
-My experience includes building responsive interfaces, working with CMS and portal environments, integrating APIs, developing back-end services and writing tests for web applications.
-
-I enjoy understanding how things work under the hood, from the structure of a web page to the way APIs, databases and enterprise systems communicate with each other.
-
-I'm especially interested in creating maintainable, user-friendly and business-oriented software, while continuously improving my knowledge in modern front-end engineering, back-end development, software architecture and DevOps practices.
-
 ---
 
-## 🧩 What I work with
+## 🇺🇸 About me
 
-- Front-end development with **HTML, CSS, JavaScript, TypeScript and React**
-- Responsive layouts, semantic HTML, accessibility and user experience improvements
-- **Liferay development**, including fragments, pages, templates, portal customization and integrations
-- API integration and development
-- Back-end development with **Node.js, Express.js, NestJS and Java**
-- Database modeling and data persistence with **PostgreSQL, MongoDB, Redis and Prisma**
-- Automated testing with **Jest, SuperTest and Cypress**
-- Version control, Docker and CI/CD basics
-- Technical documentation and API documentation
+My work connects different areas of web development, especially:
+
+- **Front-end:** responsive interfaces, semantic HTML, CSS architecture, JavaScript, TypeScript and React
+- **Liferay & CMS:** fragments, pages, templates, portal customization and integrations
+- **Back-end:** APIs, business rules, services and integrations
+- **Databases:** data modeling, persistence and query logic
+- **Testing & tooling:** automated tests, documentation, version control, Docker and CI/CD basics
+
+I enjoy creating software that is maintainable, user-friendly and connected to real business needs.
+
+I'm currently improving my knowledge in front-end architecture, Liferay development, back-end engineering, software architecture, automated testing and DevOps practices.
 
 ---
 
@@ -83,37 +79,22 @@ I'm especially interested in creating maintainable, user-friendly and business-o
 
 ---
 
-## 🚀 Technical interests
+## ✨ Beyond code
 
-I'm currently deepening my knowledge in:
+A little bit about me outside work:
 
-- Liferay development and architecture
-- Front-end architecture and component-based development
-- React and TypeScript
-- Java, OSGi and enterprise systems
-- API design and integration
-- Automated testing and software quality
-- DevOps, Docker and CI/CD
-- Scalable and maintainable software architecture
-
----
-
-## 📌 Featured projects
-
-Here you can find projects related to:
-
-- Front-end interfaces
-- Full stack web applications
-- API development
-- Study projects and technical experiments
-- Portfolio projects built to practice specific technologies and concepts
+- I like playing chess ♟️
+- I enjoy practicing physical exercises 🏋🏽
+- I’m a movie enthusiast 🎞️
+- I like comedy and good humor 🤣
+- I’m curious about how things work, not only in software, but in general
 
 ---
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Malaquia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemalaquiasdev)
-[![GitHub](https://img.shields.io/badge/GitHub-JorgeMalaquias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeMalaquiasDev)
+[![GitHub](https://img.shields.io/badge/GitHub-JorgeMalaquias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeMalaquias)
 [![Email](https://img.shields.io/badge/Email-jorgemalaquia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgemalaquia@gmail.com)
 
 ---
@@ -122,29 +103,24 @@ Here you can find projects related to:
 
 # 👋 Olá, eu sou Jorge Malaquia
 
-## 🇧🇷 Sobre mim
+Sou desenvolvedor web do sul do Brasil, atualmente focado em **Liferay**, **front-end** e **soluções web corporativas**.
 
-Sou desenvolvedor de software com foco em desenvolvimento web, atualmente trabalhando principalmente com **Liferay**, **front-end** e **soluções web corporativas**.
-
-Minha experiência envolve criação de interfaces responsivas, atuação em ambientes de CMS e portais, integração com APIs, desenvolvimento de serviços back-end e escrita de testes para aplicações web.
-
-Gosto de entender como as coisas funcionam por trás da interface, desde a estrutura de uma página web até a forma como APIs, bancos de dados e sistemas corporativos se comunicam.
-
-Tenho interesse especial em criar softwares organizados, úteis para o usuário final e conectados a necessidades reais de negócio, enquanto sigo aprofundando meus conhecimentos em engenharia front-end moderna, back-end, arquitetura de software e práticas de DevOps.
-
+Gosto de construir interfaces, entender como as coisas funcionam por trás da tela e transformar necessidades de negócio em aplicações web práticas.
 ---
 
-## 🧩 Com o que trabalho
+## 🇧🇷 Sobre mim
 
-- Desenvolvimento front-end com **HTML, CSS, JavaScript, TypeScript e React**
-- Layouts responsivos, HTML semântico, acessibilidade e melhorias de experiência do usuário
-- Desenvolvimento em **Liferay**, incluindo fragments, páginas, templates, customização de portais e integrações
-- Integração e desenvolvimento de APIs
-- Desenvolvimento back-end com **Node.js, Express.js, NestJS e Java**
-- Modelagem e persistência de dados com **PostgreSQL, MongoDB, Redis e Prisma**
-- Testes automatizados com **Jest, SuperTest e Cypress**
-- Controle de versão, Docker e noções de CI/CD
-- Documentação técnica e documentação de APIs
+Meu trabalho se conecta com diferentes frentes do desenvolvimento web, especialmente:
+
+- **Front-end:** interfaces responsivas, HTML semântico, arquitetura CSS, JavaScript, TypeScript e React
+- **Liferay e CMS:** fragments, páginas, templates, customização de portais e integrações
+- **Back-end:** APIs, regras de negócio, serviços e integrações
+- **Bancos de dados:** modelagem de dados, persistência e lógica de consultas
+- **Testes e ferramentas:** testes automatizados, documentação, controle de versão, Docker e noções de CI/CD
+
+Gosto de criar softwares organizados, úteis para o usuário final e conectados a necessidades reais de negócio.
+
+Atualmente sigo aprofundando meus conhecimentos em arquitetura front-end, desenvolvimento Liferay, back-end, arquitetura de software, testes automatizados e práticas de DevOps.
 
 ---
 
@@ -203,35 +179,20 @@ Tenho interesse especial em criar softwares organizados, úteis para o usuário 
 
 ---
 
-## 🚀 Interesses técnicos
+## ✨ Além do código
 
-Atualmente tenho aprofundado meus conhecimentos em:
+Um pouco sobre mim fora do trabalho:
 
-- Desenvolvimento e arquitetura Liferay
-- Arquitetura front-end e desenvolvimento baseado em componentes
-- React e TypeScript
-- Java, OSGi e sistemas corporativos
-- Design e integração de APIs
-- Testes automatizados e qualidade de software
-- DevOps, Docker e CI/CD
-- Arquitetura de software escalável e de fácil manutenção
-
----
-
-## 📌 Projetos em destaque
-
-Aqui você encontra projetos relacionados a:
-
-- Interfaces front-end
-- Aplicações web full stack
-- Desenvolvimento de APIs
-- Projetos de estudo e experimentos técnicos
-- Projetos de portfólio criados para praticar tecnologias e conceitos específicos
+- Gosto de jogar xadrez ♟️
+- Gosto de praticar exercícios físicos 🏋🏽
+- Sou entusiasta de cinema 🎞️
+- Gosto de comédia e bom humor 🤣
+- Sou curioso sobre como as coisas funcionam, não só em software, mas no geral
 
 ---
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Malaquia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemalaquiasdev)
-[![GitHub](https://img.shields.io/badge/GitHub-JorgeMalaquias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeMalaquiasDev)
+[![GitHub](https://img.shields.io/badge/GitHub-JorgeMalaquias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeMalaquias)
 [![Email](https://img.shields.io/badge/Email-jorgemalaquia%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgemalaquia@gmail.com)
