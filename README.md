@@ -101,7 +101,7 @@ A little bit about me outside work:
 
 <br>
 
-# 👋 Olá, eu sou Jorge Malaquia
+# 👋 Olá, eu sou Jorge Malaquias
 
 Sou desenvolvedor web do sul do Brasil, atualmente focado em **Liferay**, **front-end** e **soluções web corporativas**.
 
