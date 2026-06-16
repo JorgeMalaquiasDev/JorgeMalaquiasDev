@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jorge Malaquia
+# 👋 Hello, I'm Jorge Malaquias
 
 I'm a web developer from Brazil, currently focused on **Liferay**, **front-end development** and **enterprise web solutions**.
 
